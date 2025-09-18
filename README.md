@@ -7,7 +7,7 @@ Asim Ahmed
 Skills
 - Languages: Python, R, SQL  
 - Libraries/Frameworks: pandas, scikit-learn, ggplot2, XGBoost  
-- Tools: Git, Docker, VS Code, RStudio  
+- Tools: Git, Replit, VS Code, RStudio  
 
 ---
 
