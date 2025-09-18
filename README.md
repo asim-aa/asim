@@ -22,4 +22,4 @@ Skills
 
 
 Connect
-- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/asim-ahmed-129450365/))  
+- [LinkedIn] https://www.linkedin.com/in/asim-ahmed-129450365/
